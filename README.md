@@ -1,0 +1,2 @@
+# Hivatalos_Szakdolgozat_GazdasagInformatika_LiveTheFit
+Németh János hivatalos szakdolgozat.
